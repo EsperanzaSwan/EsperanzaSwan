@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 
 
 <!--
 **EsperanzaSwan/EsperanzaSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 I am a data science enthusiast who loves scientific computing. 
+
+
+Find me on Linkedin
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qianyu-ma/)
