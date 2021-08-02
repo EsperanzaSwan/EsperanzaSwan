@@ -1,23 +1,24 @@
-### Hi there! 👋 
+### Hi there! 👋  I am Theresa. 
 
-<!--
-**EsperanzaSwan/EsperanzaSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 💼 &nbsp; supporting iOS/macOS developers for the past 3+ years.
+- 🔭 &nbsp; seeking to transition to a data scientist.
+- 🎓 &nbsp; taking IBM data science certification classes online.
+- 🌱 &nbsp; learning Data Analysis, Machine Learning and Artificial Intelligence.
+- 💻 &nbsp; building projects in Python and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-
-
-I am a data science enthusiast who loves scientific computing. 
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![PyCharm](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=PyCharme&logoColor=007ACC)
 
 
 Find me on Linkedin
