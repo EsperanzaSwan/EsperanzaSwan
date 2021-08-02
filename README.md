@@ -1,4 +1,4 @@
-### Hi there! 👋  I am Theresa. 
+### Hello there! 👋  I am Theresa. 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -18,9 +18,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![PyCharm](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=PyCharme&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharme&logoColor=007ACC)
 
 
-Find me on Linkedin
+<h3> Find me on Linkedin <h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qianyu-ma/)
