@@ -1,4 +1,4 @@
-### Hello there! 👋  I am Theresa. 
+### Hello there! 👋   I am Theresa. 
 
 <h3> About Me </h3>
 
@@ -19,7 +19,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ&logoColor=<orange>)
 
 
 <h3> Find me on Linkedin <h3>
