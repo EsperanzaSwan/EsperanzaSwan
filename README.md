@@ -1,14 +1,14 @@
 ### Hello there! 👋  I am Theresa. 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> About Me </h3>
 
 - 💼 &nbsp; supporting iOS/macOS developers for the past 3+ years.
 - 🔭 &nbsp; seeking to transition to a data scientist.
 - 🎓 &nbsp; taking IBM data science certification classes online.
 - 🌱 &nbsp; learning Data Analysis, Machine Learning and Artificial Intelligence.
-- 💻 &nbsp; building projects in Python and Java.
+- 👩🏻‍💻 &nbsp; building projects in Python and Java.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Tech Stack </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
