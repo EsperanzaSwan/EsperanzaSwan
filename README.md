@@ -2,7 +2,6 @@
 
 <h3> About Me </h3>
 
-- 💼 &nbsp; supporting iOS/macOS developers for the past 3+ years.
 - 🔭 &nbsp; seeking to transition to a data scientist.
 - 🎓 &nbsp; taking IBM data science certification classes online.
 - 🌱 &nbsp; learning Data Analysis, Machine Learning and Artificial Intelligence.
