@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- 🔭 &nbsp; seeking to transition to a data scientist.
+- 🔭 &nbsp; looking for a data scientist position.
 - 🎓 &nbsp; taking IBM data science certification classes online.
 - 🌱 &nbsp; learning Data Analysis, Machine Learning and Artificial Intelligence.
 - 👩🏻‍💻 &nbsp; building projects in Python and Java.
